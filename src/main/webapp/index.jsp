@@ -6,6 +6,6 @@
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<h1>Hello to the Devops project 6.30am </h1>
+	<h1>Hello to the Devops project 6.30 am </h1>
 </body>
 </html>
