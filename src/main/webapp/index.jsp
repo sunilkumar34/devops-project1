@@ -4,6 +4,6 @@
 	<title>WAR Web Service</title>
 </head>
 <body>
-	<h1>Hello to the DevOps project 3.40 am </h1>
+	<h1>Hello to the DevOps project 15.07 pm </h1>
 </body>
 </html>
